@@ -1,0 +1,22 @@
+.photos{
+    align-items: center;
+    
+    
+}
+body{
+    background-color: green;
+}
+.p{
+    margin: 10% 10% 10% 10%;
+}
+h1{
+    align-items: center;
+}
+img{
+    margin:0px 0px 0 px 100px;
+
+    
+}
+.reg-col{
+    display: flex;
+}

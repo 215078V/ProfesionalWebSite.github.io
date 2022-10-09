@@ -1,0 +1,75 @@
+body{
+    
+    background-repeat: no-repeat;
+   /* background-image:url('backgroundImage.jpg');*/
+    background-size: cover;
+    box-shadow: 3px;
+    background-color:green;
+}
+/*img{
+    width: auto;
+    height: 100%;
+    opacity: 0.6;
+
+}*/
+
+.div1{
+    background-color: rgb(71, 86, 80);
+    width: 90%;
+    height: 10%;
+    margin: 10px 500px 5px 100px;
+    -webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+    align-items: baseline;
+} 
+
+ .p1
+ {
+ text-justify: auto;color: aliceblue;
+}
+
+.img{shape-image-threshold: calc(green);align-items: center;}
+photo{align-items: center;}
+
+
+.h3a{ text-decoration: wavy; color:blue;}
+
+.firstpart{
+    align-self: start;width: 100%;align-self: center;
+}
+.h3b{
+    text-decoration: wavy;color: blue;font-family: Arial, Helvetica, sans-serif;
+}
+.secondpart{
+    align-self: flex-end;width: 100%;align-items: center;
+}
+dl{
+    color:black(14, 117, 181);
+}
+li a{
+    color: aqua;
+}
+.PHOTOS{
+    position: absolute;
+    
+}
+.table{
+    align-self: center;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+table,tr,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    color: white;
+
+}
+.reg-col{
+    display: flex;
+}
+img{
+    margin-left: 80%;
+    
+}

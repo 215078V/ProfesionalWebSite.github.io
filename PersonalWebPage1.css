@@ -1,0 +1,84 @@
+body{
+    /*background-image: linear-gradient(rgba(255,255,255,0.25),rgba(255,255,255,0.75)) */
+    background-image:url('backgroundImage.jpg')  ;
+  /* background-image: linear-gradient(rgba(255,255,255,0.25),rgba(255,255,255,0.75)), url('backgroundImage.jpg') ;*/
+
+  /* background-position-y: center;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-items: center;*/
+    
+}
+
+.drop{
+    position: absolute;
+    float: left;
+    text-align: right;
+}
+li a{
+    margin-left: 25%;
+
+}
+
+.drop li{
+    list-style: none;
+    display: inline-block;
+}
+.drop li a {
+    color: aquamarine;
+    
+    
+}
+.navbar{
+    text-align: center;
+    height: 100px;
+    background-color: green;
+}
+.text{
+    color: aliceblue;
+    
+      top: 15%;
+      position: absolute;
+      text-align: center;
+        margin: 30px 10%;
+        background-color:rgba(185, 229, 187, 0.973);
+        border: 1px solid black;
+        opacity: 0.76;
+
+    
+    }
+
+.text p {
+            margin: 5%;
+            font-weight: bold;
+            color: #000000;
+            font-size: 100%;
+      
+}
+.animate{
+    text-decoration: blue ;
+    font-weight: bold;
+    
+
+    
+}
+.aboutme{
+    text-align: center;
+}
+.buttons{
+    left: 40%;
+    top: 100%;
+    position:absolute;
+    text-align-last: center;
+    
+    
+
+}
+.buttons button{
+    color: aliceblue;
+    background: #000000;
+    border: 2px solid blue;
+    font-family: fantasy;
+
+}
